@@ -18,7 +18,7 @@ class Employee {
         System.out.printf("ID: %d | Name: %s | Basic: $%.2f | Gross: $%.2f%n", id, name, basic, getGross());
     }
 }
-public class Practice3 {
+public class lab3_3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of employees: ");
