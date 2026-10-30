@@ -35,7 +35,7 @@ class Student {
         System.out.printf("ID: %d | Name: %s | Total: %.1f | Average: %.2f | Grade: %c%n", id, name, getTotal(), getAverage(), getGrade());
     }
 }
-public class Practice4 {
+public class lab3_4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of students: ");
