@@ -23,7 +23,7 @@ class Account {
         System.out.printf("Account: %s | Name: %s | Balance: $%.2f%n", accNo, name, balance);
     }
 }
-public class Practice5 {
+public class lab3_5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of customers: ");
