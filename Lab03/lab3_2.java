@@ -14,7 +14,7 @@ class City {
         System.out.printf("%s: %.1f C = %.1f F%n", name, celsius, toFahrenheit());
     }
 }
-public class Practice2 {
+public class lab3_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of cities: ");
