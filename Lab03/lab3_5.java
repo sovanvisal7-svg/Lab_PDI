@@ -85,5 +85,6 @@ public class lab3_5 {
                 System.out.println("Invalid choice");
             }
         }
+        sc.close();
     }
 }

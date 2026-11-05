@@ -59,5 +59,6 @@ public class lab3_4 {
         for (int i = 0; i < n; i++) {
             students[i].display();
         }
+        sc.close();
     }
 }
